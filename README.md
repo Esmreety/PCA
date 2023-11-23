@@ -1,1 +1,1 @@
-# NLP-Projects
+Dimensionality reduction using Principal Component Analysis
